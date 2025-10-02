@@ -1,3 +1,5 @@
+//insertion en tete et en queue dans une liste simplement chainee circulaire
+
 #include <stdio.h>
 #include <stdlib.h>
 
