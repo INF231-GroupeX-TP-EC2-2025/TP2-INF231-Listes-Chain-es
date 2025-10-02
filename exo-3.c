@@ -1,3 +1,5 @@
+// insertion d'un element daans une liste doublement chainee triee
+
 #include <stdio.h>
 #include <stdlib.h>
 
