@@ -1,3 +1,5 @@
+// ce code source permet de lire un element et supprimer toutes ses occurences dans la liste
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -72,3 +74,4 @@ int main() {
     
     return 0;
 }
+
